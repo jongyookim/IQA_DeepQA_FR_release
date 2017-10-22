@@ -1,0 +1,40 @@
+{
+    "remotePath": "/Python/LDAE/",
+    "host": "165.132.112.164",
+    "username": "jongyoo",
+    "password": "wireless",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "/.git",
+        "/.vscode/ftp-kr.task.json",
+        "/.vscode/ftp-kr.sync.*.json",
+        "\\.vscode",
+        "\\.git",
+        "\\*.pyc",
+        "\\*.npy",
+        "\\*.png",
+        "\\*.bmp",
+        "\\*.ipynb",
+        "\\*.pkl",
+        "\\*.gz",
+        "\\*.sublime-(project|workspace)",
+        "sftp-config(-alt\\d?)?\\.json",
+        "sftp-settings\\.json",
+        "\\*.DS_Store",
+        "Thumbs\\.db",
+        "desktop\\.ini",
+        "/outputs/"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": false,
+        "extensionsToInclude": [],
+        "path": ""
+    }
+}

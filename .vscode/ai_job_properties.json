@@ -1,0 +1,25 @@
+{
+    "version": "0.0.1",
+    "job": {
+        "type": "General",
+        "files": {
+            "includes": [
+                "**/*.py"
+            ]
+        },
+        "author": "UserName",
+        "jobName": "Application",
+        "startupCommand": "python",
+        "startupScript": "",
+        "arguments": "",
+        "workingDirectory": ".",
+        "batchArguments": []
+    },
+    "platformProperties": [
+        {
+            "version": "0.0.1",
+            "type": "LinuxVM",
+            "properties": []
+        }
+    ]
+}

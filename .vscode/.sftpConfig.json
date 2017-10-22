@@ -1,0 +1,43 @@
+{
+    "host": "165.132.112.164",
+    "port": 21,
+    "username": "jongyoo",
+    "password": "wireless",
+    "protocol": "ftp",
+    "agent": null,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "passive": false,
+    "interactiveAuth": false,
+    "remotePath": "/Python/IQA_DeepQA_FR_release/",
+    "uploadOnSave": false,
+    "syncMode": "update",
+    "watcher": {
+        "files": false,
+        "autoUpload": false,
+        "autoDelete": false
+    },
+    "ignore": [
+        "**/.vscode",
+        "**/.git",
+        "**/.DS_Store",
+        "**/.sftpConfig.json",
+        "/.git",
+        "\\.git",
+        "\\.pyc",
+        "\\.npy",
+        "\\.png",
+        "\\.bmp",
+        "\\.ipynb",
+        "\\.pkl",
+        "\\.gz",
+        "\\.sublime-(project|workspace)",
+        "\\.DS_Store",
+        "sftp-config(-alt\\d?)?\\.json",
+        "sftp-settings\\.json",
+        "Thumbs\\.db",
+        "desktop\\.ini",
+        "/outputs/",
+        "/.vscode/"
+    ]
+}
