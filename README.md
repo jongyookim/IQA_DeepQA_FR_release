@@ -11,6 +11,7 @@ This code was developed and tested with Theano 0.9, CUDA 8.0, and Windows.
 ### Setting database path:
 For each database, set `BASE_PATH` to the actual root path of each database in the following files:
 `IQA_DeepQA_FR_release/data_load/LIVE.py`,
+`IQA_DeepQA_FR_release/data_load/CSIQ.py`,
 `IQA_DeepQA_FR_release/data_load/TID2008.py`, and
 `IQA_DeepQA_FR_release/data_load/TID2013.py`.
 
